@@ -19,8 +19,8 @@ The [Range.GetDataSource](https://docs.devexpress.com/OfficeFileAPI/DevExpress.
 
 ## Files to Review
 
-* [Form1.cs](./CS/RangeDataSource/Form1.cs) (VB: [Form1.vb](./VB/RangeDataSource/Form1.vb))
-* [MyColumnDetector.cs](./CS/RangeDataSource/MyColumnDetector.cs) (VB: [MyColumnDetector.vb](./VB/RangeDataSource/MyColumnDetector.vb))
+* [Form1.cs](./CS/RangeDataSourceForSnap/Form1.cs) (VB: [Form1.vb](./VB/RangeDataSourceForSnap/Form1.vb))
+* [MyColumnDetector.cs](./CS/RangeDataSourceForSnap/MyColumnDetector.cs) (VB: [MyColumnDetector.vb](./VB/RangeDataSourceForSnap/MyColumnDetector.vb))
 
 ## More Examples
 
@@ -38,4 +38,5 @@ The [Range.GetDataSource](https://docs.devexpress.com/OfficeFileAPI/DevExpress.
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
 
